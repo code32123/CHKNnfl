@@ -1,0 +1,8 @@
+Chicken Sprite:
+C:\Users\jimmy\Desktop\Coding\NDS\Software\nflib\tools\grit\grit.exe ./CHKN.bmp -g -gTFF00FF -p -pS -ftb -OCHKN64P -gB8 -fh!
+
+Egg Image:
+C:\Users\jimmy\Desktop\Coding\NDS\Software\nflib\tools\grit\grit.exe ./EGG.bmp -gb -gu16 -gB16 -ftb -fh! -gTFF00FF
+
+bg Images:
+C:\Users\jimmy\Desktop\Coding\NDS\Software\nflib\tools\grit\grit.exe ./bgT.bmp -gb -gB16 -ftb
